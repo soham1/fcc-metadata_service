@@ -1,0 +1,21 @@
+{
+  "name": "workspace",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Soham Ashodiya <sohamashodiya@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/soham1/fcc-metadataservice",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.5"
+  }
+}
