@@ -1,4 +1,4 @@
-#Book Trading Application
+#Metadata Service
 
 This is a solution for https://www.freecodecamp.com/challenges/file-metadata-microservice
 
@@ -14,7 +14,7 @@ User Story: When I submit something, I will receive the file size in bytes withi
 ###User selects a file they want to measure.
 <img src="/images/Metadata2.PNG">
 
-###A dialog boc appears with the size of the file in MB.
+###A dialog box appears with the size of the file in MB.
 <img src="/images/Metadata3.PNG">
 
 ##Demo
